@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in VBScript's handling of the IsEmpty function when dealing with Null values.  The bug arises from the inconsistent behavior of IsEmpty with empty strings and actual Null values, leading to potential unexpected behavior in functions expecting these values.
